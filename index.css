@@ -1,6 +1,6 @@
 ﻿body {
     margin: 0;
-    background: #FFB4E3;
+    background-color: #FFB4E3;
     color: #045302;
 }
 
@@ -45,6 +45,6 @@ nav > ul {
     background-image: url(./images/glowing.png);
     background-size: cover;
     background-position: 50%;
-    
+
     border-radius: 9999px;
 }
