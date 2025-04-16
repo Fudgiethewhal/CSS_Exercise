@@ -1,11 +1,11 @@
 ﻿body {
     margin: 0;
-    background-color: #222;
-    color: #eee;
+    background: #FFB4E3;
+    color: #045302;
 }
 
 .nav-link {
-    color: purple;
+    color: #5a1e5a;
     text-decoration: none;
 }
 
@@ -33,7 +33,18 @@ nav > ul {
     list-style: none;
 }
 
+.text-center {
+    text-align: center;
+}
+
 #avatar {
-    width: 100px;
-    margin : 32px auto;
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 32px auto;
+    background-image: url(./images/glowing.png);
+    background-size: cover;
+    background-position: 50%;
+    
+    border-radius: 9999px;
 }
