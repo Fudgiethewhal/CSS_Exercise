@@ -39,7 +39,7 @@ nav > ul {
 
 #avatar {
     display: block;
-    width: 200px;
+    width: 100px;
     height: 200px;
     margin: 32px auto;
     background-image: url(./images/glowing.png);
